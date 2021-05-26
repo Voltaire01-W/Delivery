@@ -15,7 +15,7 @@ import { icons, images, SIZES, COLORS, FONTS } from '../constants';
 const Home = ({ navigation }) => {
 
     const initialCurrentLocation = {
-        streetName: "Stone Prairie",
+        streetName: "Kuching",
         gps: {
             latitude: 1.5496614931250685,
             longitude: 110.36381866919922
